@@ -2,9 +2,9 @@
 
 <!-- ![image](kkLogoSmall.PNG) -->
 
-## Browse with confidence: Secure & Free of charge
+## Browse with confidence: secure & free of charge (app)
 ## Use kkVPN
-- <strong>kkVPN apps offer free unlimited on both android and iOS</strong>
+- <strong>kkVPN apps offer free unlimited data on both android & iOS</strong>
 
 ### How to get kkVPN
 - Android - go to Google Play store and search for <b>kkVPN</b> by IT-029, LLC
