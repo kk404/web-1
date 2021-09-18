@@ -8,9 +8,9 @@
 - <strong>kkVPN L2TP Accounts allow you to equip all your smart devices with just a few parameters</strong>
 
 ### How to get kkVPN
-- Android - go to [Google Play store](https://play.google.com) and search for <b>kkVPN</b> by IT-029, LLC (currently in review)
+- Android - go to [Google Play store](https://play.google.com/store/search?q=Kkvpn) and search for <b>kkVPN</b> by IT-029, LLC (currently in review)
  
-- iOS - go to [Apple app store](https://apps.apple.com) and search for <b>kkVPN</b> by IT-029, LLC
+- iOS - go to [Apple app store](https://www.apple.com/us/search/kkvpn?src=globalnav) and search for <b>kkVPN</b> by IT-029, LLC
   
 
 
