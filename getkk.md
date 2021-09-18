@@ -5,6 +5,7 @@
 ## Browse with confidence: secure & free of charge (app)
 ## Use kkVPN
 - <strong>kkVPN apps offer free unlimited data on both android & iOS</strong>
+- <strong>kkVPN L2TP Accounts allow you to equip all your smart devices with just a few parameters</strong>
 
 ### How to get kkVPN
 - Android - go to [Google Play store](https://play.google.com) and search for <b>kkVPN</b> by IT-029, LLC (currently in review)
