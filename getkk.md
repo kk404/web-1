@@ -53,6 +53,7 @@ We offer 2 kinds of technologies for you: kkVPN app, and kkVPN L2TP Accounts. Yo
   - Apple iOS iPhone/iPad/Mac computer
   - Windows PC
   - Linux computer
+  - some routers
 
 - Free trial data every day - so you can try before you purchase
 
