@@ -33,7 +33,7 @@ We offer 2 kinds of technologies for you: kkVPN app, and kkVPN L2TP Accounts. Yo
   - Paid premium data works even better
   - Based on HTTPS/SSL  
   - Bank grade encryption
-- Works on all android and iOS devices
+- Works on these android and iOS devices
   - Android
     - Android phone
     - Android tablet
