@@ -10,7 +10,7 @@
 ### How to get kkVPN
 - Android - go to [Google Play store](https://play.google.com/store/search?q=Kkvpn) and search for <b>kkVPN</b> by IT-029, LLC (currently in review)
  
-- iOS - go to [Apple app store](https://apps.apple.com/us/app/kkvpn/id1530649322) and install <b>kkVPN</b> by IT-029, LLC
+- Apple iOS - go to [Apple app store](https://apps.apple.com/us/app/kkvpn/id1530649322) and install <b>kkVPN</b> by IT-029, LLC
   
 
 
