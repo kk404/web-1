@@ -7,9 +7,9 @@
 - <strong>kkVPN apps offer free unlimited data on both android & iOS</strong>
 
 ### How to get kkVPN
-- Android - go to Google Play store and search for <b>kkVPN</b> by IT-029, LLC (currently in review)
+- Android - go to [Google Play store](https://play.google.com) and search for <b>kkVPN</b> by IT-029, LLC (currently in review)
  
-- iOS - go to Apple app store and search for <b>kkVPN</b> by IT-029, LLC
+- iOS - go to [Apple app store](https://apps.apple.com) and search for <b>kkVPN</b> by IT-029, LLC
   
 
 
