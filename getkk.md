@@ -1,6 +1,6 @@
-<img src="/kkLOGO/kkLogoSmall.PNG" alt="kk Logo" width="100"/>
+<img src="kkLogoSmall.PNG" alt="kk Logo" width="100"/>
 
-<!-- ![image](/kkLOGO/kkLogoSmall.PNG) -->
+<!-- ![image](kkLogoSmall.PNG) -->
 
 ## Browse with confidence: Secure & Free of charge
 ## Use kkVPN
