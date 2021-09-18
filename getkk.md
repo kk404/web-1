@@ -14,7 +14,7 @@
   
 
 
-## kkVPN is the best VPN 
+## kkVPN strives to be the best VPN for you
 
 - Easy to use
 - Secure
